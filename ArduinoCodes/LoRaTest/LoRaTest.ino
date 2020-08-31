@@ -1,8 +1,3 @@
-/*********
-  Rui Santos
-  Complete project details at https://RandomNerdTutorials.com/ttgo-lora32-sx1276-arduino-ide/
-*********/
-
 #include <ArduinoJson.h>
 
 //Libraries for LoRa

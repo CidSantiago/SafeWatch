@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 15 17:24:40 2019
-
-@author: Caio Cid Santiago
-"""
-
 import os, sys, serial
 import json
 from datetime import datetime
